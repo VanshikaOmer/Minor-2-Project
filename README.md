@@ -67,54 +67,7 @@ In response to these challenges, we developed SkillSync—a one-stop solution de
 
 - <b> Integration with Student Profiles: </b> Interviewers may access student profiles within the platform to review their background.
 
-  ![image](https://github.com/Shubhiidixit/SkillSync/assets/96081477/9ec5d18e-7ef8-40d4-93c2-6961e1bdb4cb)
-
-## Installation and Usage
-
-Follow the instructions below to set up and use the platform:
-
-<b> 1. Getting Started </b>
-
-- <b> Clone the Repository- </b>
- `git clone https://github.com/Shubhiidixit/SkillSync.git` and 
-` cd SkillSync`
-
-- <b> Set Up the Project- </b> The project has multiple components. Below are the instructions to set up each component.
-
-<b> 2. Dashboard (HTML/CSS)- </b>
-The dashboard is built using basic HTML and CSS. You can view the dashboard by opening the index.html file directly in your browser.
-
-<b> 3. Coding Assessments- </b>
-For the coding assessments feature, there’s no additional setup required. You can access this feature by navigating to the "Coding" option in the navigation bar on the dashboard.
-
-<b> 4. Interview (Node.js)- </b>
-The interviews feature is built using Node.js. Follow these steps to set up and start the server:
-
-- <b> Install Dependencies- </b> Navigate to the interviews directory and install the required Node.js packages.
-`cd interview` and
-`npm install`
-
-- <b> Start the Development Server- </b>  Start the server using the following command:
-`npm start`<br>
-This will start the development server and you can access the interviews feature at http://localhost:3000 (or the port specified by your configuration).
-
-- <b> Access Interview- </b> Once the server is running, click on the "Interview" option in the navigation bar on the dashboard to access the interview page.
-
-<b> 5. Additional Features- </b>
-For additional features: code sync functionality, visit the [Code-Sync](https://github.com/Shubhiidixit/Code-Sync) Repository.
-
-## Applications
-
-- <b> Educational Institutions: </b> Universities, colleges, and schools can utilize the platform for conducting assessments to evaluate students' knowledge and skills across different subjects and disciplines. It can also assist in identifying areas where students may need additional support or enrichment. 
-
-- <b> Corporate Training: </b> Businesses can employ the platform for assessing the skills of employees and conducting training programs tailored to their specific needs. This can include technical skills assessments, soft skills evaluations, and compliance training. 
  
-- <b> Recruitment and Hiring: </b> Employers can utilize the platform as part of their recruitment process to evaluate the skills and competencies of job applicants. It can help in identifying suitable candidates based on their performance in assessments relevant to the job requirements.  
-
-- <b> Professional Development: </b> Professionals seeking to enhance their skills or pursue career advancement opportunities can benefit from the platform by accessing a range of assessments and training resources. It can serve as a valuable tool for ongoing professional development and lifelong learning.  
-
-- <b> Government and Nonprofit Organizations: </b> Government agencies and nonprofit organizations can leverage the platform for various purposes, such as conducting assessments for educational or vocational programs, evaluating the effectiveness of training initiatives, or assessing the skills of program beneficiaries for workforce development purposes.
-
 ## Contributing
 We welcome contributions to improve SkillSync! If you'd like to contribute, please follow these guidelines:
 
